@@ -1,21 +1,5 @@
 <?php
-/**
- * Geohash generation class for php 
- *
- * This file copyright (C) 2013 Bruce Chen (http://weibo.com/smcz)
- *
- * Author: Bruce Chen (weibo: @一个开发者)
- *
- */
-
-
-/**
- *
- * Encode and decode geohashes
- *
- * Find neighbors
- *
- */
+namespace Geo;
 
 class Geohash {
 
