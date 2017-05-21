@@ -2,6 +2,7 @@
     "name": "xianyunyehe/geohash",
     "description": "xianyunyehe/geohash",
     "type": "library",
+    "version": "1.0.0",
     "license": "BSD",
     "authors": [
         {
