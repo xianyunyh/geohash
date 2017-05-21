@@ -4,6 +4,12 @@
     "type": "library",
     "version": "1.0.0",
     "license": "BSD",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xianyunyh/geohash"
+        }
+    ],
     "authors": [
         {
             "name": "xianyun",
